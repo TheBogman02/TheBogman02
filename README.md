@@ -1,4 +1,5 @@
-![](hellogif.gif)
+![giphy](https://user-images.githubusercontent.com/92158821/166146223-23610cd1-e968-4e4a-ba65-926c841bdcc8.gif)
+
 <!--
 **TheBogman02/TheBogman02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
