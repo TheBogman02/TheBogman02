@@ -1,5 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![giphy (1)](https://user-images.githubusercontent.com/92158821/166146399-59f8f7cf-ddc4-4517-87ed-1b92e6657075.gif)
+![waving-wave](https://user-images.githubusercontent.com/92158821/166147247-dc5ef98c-049d-452d-bba1-39cbb8a040a5.gif)
 
 <!--
 **TheBogman02/TheBogman02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
