@@ -1,7 +1,7 @@
-![giphy (1)](https://user-images.githubusercontent.com/92158821/166146399-59f8f7cf-ddc4-4517-87ed-1b92e6657075.gif)
+![giphy](https://user-images.githubusercontent.com/92158821/194422784-7e657ffa-658b-4865-ab54-ec56a5678c11.gif)
 
 ### Hey there! 
-My name is Nathan Field. <img src="https://media4.giphy.com/media/V1dH38rUl9yX7xU8nh/giphy.gif?cid=ecf05e47om0xmi0y1xvvv09l5tlmkkciuuitf1bxx8j16d7e&rid=giphy.gif&ct=g" width="20px">
+My name is Nathan Field. <img src="https://user-images.githubusercontent.com/92158821/167267482-e03307e0-af93-4309-bb7d-70d2dc16393c.png" width="20px">
 
 3rd Year of Computing in Software Development.
 
