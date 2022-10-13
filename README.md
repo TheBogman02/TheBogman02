@@ -1,13 +1,15 @@
-<img src="https://user-images.githubusercontent.com/92158821/194422784-7e657ffa-658b-4865-ab54-ec56a5678c11.gif" width="250px">
+
 
 ### Hey there! 
 My name is Nathan Field. <img src="https://user-images.githubusercontent.com/92158821/167267482-e03307e0-af93-4309-bb7d-70d2dc16393c.png" width="20px">
 
 3rd Year of Computing in Software Development.
 
-
+<img src="https://user-images.githubusercontent.com/92158821/194422784-7e657ffa-658b-4865-ab54-ec56a5678c11.gif" width="250px">
 <!--
 **TheBogman02/TheBogman02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
