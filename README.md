@@ -5,11 +5,10 @@ My name is Nathan Field. <img src="https://user-images.githubusercontent.com/921
 
 3rd Year of Computing in Software Development.
 
+<img id="giphy" src=""/>
 
-'''js
-  <img id="giphy" src=""/>
-
-    <script>
+    <script
+    >
 
         var today = new Date()
         switch(today.getDay()){
