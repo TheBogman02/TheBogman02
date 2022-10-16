@@ -6,13 +6,15 @@ My name is Nathan Field. <img src="https://user-images.githubusercontent.com/921
 3rd Year of Computing in Software Development.
 
 
+
+
 <img src="https://user-images.githubusercontent.com/92158821/195911915-c4ef9167-306a-4705-963f-e3c235fe99d9.gif"/>
 
 <a href="https://www.instagram.com/fieldy2002/">
-  <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/92158821/195909423-8e1699dc-70a6-4798-a7c1-19ac5d4930d3.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/92158821/196040259-6038b89c-a44b-46bc-9694-169c2434daa3.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nathan-field-408a71198/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://user-images.githubusercontent.com/92158821/195909538-d97d72d2-e898-4a82-a6ed-83a85f2edfb1.png" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://user-images.githubusercontent.com/92158821/196040261-e542e25a-a528-45fc-b404-d9175782c2bd.svg" />
 </a>
 
 <!--
