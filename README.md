@@ -5,10 +5,8 @@ My name is Nathan Field. <img src="https://user-images.githubusercontent.com/921
 
 3rd Year of Computing in Software Development.
 
+![giphy (1)](https://user-images.githubusercontent.com/92158821/209005735-dc66d216-19ff-4c7a-8af4-51d82e473b34.gif)
 
-
-
-<img src="https://user-images.githubusercontent.com/92158821/195911915-c4ef9167-306a-4705-963f-e3c235fe99d9.gif"/>
 
 <a href="https://www.instagram.com/fieldy2002/">
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/92158821/196040259-6038b89c-a44b-46bc-9694-169c2434daa3.svg" />
