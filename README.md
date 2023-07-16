@@ -5,7 +5,8 @@ My name is Nathan Field. <img src="https://user-images.githubusercontent.com/921
 
 3rd Year of Computing in Software Development.
 
-2023 Erasmus Student in Porto.
+2023 Erasmus Student in Porto, Portugal.
+2023 Erasmus Student in Roganty, Poland.
 
 
 ![giphy (1)](https://user-images.githubusercontent.com/92158821/209005735-dc66d216-19ff-4c7a-8af4-51d82e473b34.gif)
