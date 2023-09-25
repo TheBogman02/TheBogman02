@@ -36,9 +36,10 @@ Part-time Employment in Geochemical Sampling.
 Find my contact information here:
 
 
-<a href="https://www.instagram.com/fieldy2002/">
+<!--<a href="https://www.instagram.com/fieldy2002/">
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/92158821/196040259-6038b89c-a44b-46bc-9694-169c2434daa3.svg" />
 </a>
+-->
 <a href="https://www.linkedin.com/in/nathan-field-408a71198/">
   <img align="left" alt="LinkedIN" width="22px" src="https://user-images.githubusercontent.com/92158821/196040261-e542e25a-a528-45fc-b404-d9175782c2bd.svg" />
 </a>
