@@ -29,6 +29,8 @@ Part-time Employment in Geochemical Sampling.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="60" width="60"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" height="60" width="60"/>
+    <img src="https://github.com/nfield0/nfield0/assets/92158821/d1fb798f-d791-441b-bceb-e01afcf4032c" height = "100" width="120/>
+
 </p>
 
 
