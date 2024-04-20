@@ -1,10 +1,6 @@
-
-
 ### Hey there! 
 My name is Nathan Field. <img src="https://user-images.githubusercontent.com/92158821/167267482-e03307e0-af93-4309-bb7d-70d2dc16393c.png" width="20px">
-
 4th Year Student in Computing in Software Development.
-
 Part-time Employment in Geochemical Sampling.
 
 2023 Erasmus Student in Porto, Portugal (5 months) and Roganty, Poland (1 week).
