@@ -6,7 +6,7 @@ Part-time Employment in Geochemical Sampling.
 2023 Erasmus Student in Porto, Portugal (5 months) and Roganty, Poland (1 week).
 
 
-![giphy (1)](https://user-images.githubusercontent.com/92158821/209005735-dc66d216-19ff-4c7a-8af4-51d82e473b34.gif)
+
 
 **Experience**
 <p align="center">
